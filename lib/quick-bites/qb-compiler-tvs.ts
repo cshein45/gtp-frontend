@@ -434,7 +434,7 @@ export const jsonLdFaq = generateJsonLdFaq(faqItems);
 // Quick Bite
 const CompilerTvs: QuickBiteData = {
   title: "Programming Languages Securing Ethereum's Value",
-  shortTitle: "TVS by SC Language",
+  shortTitle: "TVS by Compiler",
   subtitle: "Analyzing the top 1,000 Ethereum contracts by Total Value Secured across smart contract languages and compiler versions.",
   content: [
     "# Solidity and Vyper: Ethereum's Dominant Smart Contract Languages",
